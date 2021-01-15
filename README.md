@@ -14,7 +14,7 @@
 |BIOS|N23 Ver.02.49 07/12/2020| 
 |引导|OpenCore 0.6.5| 
 
-**网卡博主将自带原装的`Intel AC 7265` 换成了博通的`BCM943224PCIEBT2`，这块网卡某宝大概卖20来块，2.4/5G 300M 蓝牙4.0 相比自带AC 7265 网速有一定的提升还支持隔空投送。**
+**网卡将自带原装的`Intel AC 7265` 换成了博通的`BCM943224PCIEBT2`，这块网卡某宝大概卖20来块，2.4/5G 300M 蓝牙4.0 相比自带AC 7265 网速有一定的提升还支持隔空投送。**
 
 ## 实现功能
 - CPU 睿频变频正常
@@ -44,24 +44,3 @@
 - Fast Boot 关闭
 - VTd 关闭
 - 显存大小 >64M
-
-
-## 截图预览
-### Big Sur
-安装macOS Catalina 10.15.7版，暂未发现有卡顿现象。
-![macOS Catalina][2]
-### CPU
-CPU 变频正常，日常 CPU 待机功耗 6~7W 相当节能。
-![CPU][3]
-### 无线蓝牙
-无线正常，蓝牙正常，英特尔 AC 7265。
-![无线与蓝牙][4]
-### 显示器
-支持4K分辨率输出，需将EFI文件里的config4k.plist改成config.plist（不建议使用4K,可能会卡顿/花屏现象）
-![分辨率][5]
-
- [1]: https://support.hp.com/ie-en/document/c04843458
- [2]: https://github.com/july929/Hackintosh-Hp-Prodesk-400G2-DM-EFI/blob/main/images/about.png
- [3]: https://github.com/july929/Hackintosh-Hp-Prodesk-400G2-DM-EFI/blob/main/images/cpu.png
- [4]: https://github.com/july929/Hackintosh-Hp-Prodesk-400G2-DM-EFI/blob/main/images/wifi.png
- [5]: https://github.com/july929/Hackintosh-Hp-Prodesk-400G2-DM-EFI/blob/main/images/display.png
