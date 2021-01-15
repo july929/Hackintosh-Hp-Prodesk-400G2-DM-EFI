@@ -1,5 +1,5 @@
 # Hackintosh Hp-Prodesk-400G2-DM OpenCore 0.6.5 EFI
-[macOS Big Sur][1]
+![macOS Big Sur][1]
 **电脑参数：**[Hp Prodesk 400G2  DM][2]
 |配置|型号|
 |----|----|
