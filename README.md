@@ -48,7 +48,11 @@
 - VTd 关闭
 - 显存大小 >64M'
 
+## 截图预览
+![macOS Big Sur][3]
+![OpenCore][4]
 
  [1]: https://i.loli.net/2021/01/15/Z9yUQOxhW1EClpM.png
  [2]: https://support.hp.com/ie-en/document/c04843458
- 
+ [3]: https://i.loli.net/2021/01/15/jIrfAZgkSL97GeO.png
+ [4]: https://i.loli.net/2021/01/15/z1iVQSgwUGPZkKv.png
