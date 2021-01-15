@@ -1,6 +1,6 @@
 # Hackintosh Hp-Prodesk-400G2-DM OpenCore 0.6.5 EFI
-
-**电脑参数：**[Hp Prodesk 400G2  DM][1]
+[macOS Big Sur][1]
+**电脑参数：**[Hp Prodesk 400G2  DM][2]
 |配置|型号|
 |----|----|
 |系统|macOS Big Sur 11.1|
@@ -43,4 +43,9 @@
 - Secure Boot 关闭
 - Fast Boot 关闭
 - VTd 关闭
-- 显存大小 >64M
+- 显存大小 >64M'
+
+
+ [1]: https://i.loli.net/2021/01/15/Z9yUQOxhW1EClpM.png
+ [2]: https://support.hp.com/ie-en/document/c04843458
+ 
