@@ -1,4 +1,7 @@
 # Hackintosh Hp-Prodesk-400G2-DM OpenCore 0.6.5 EFI
+闲鱼花280元价格捡了台惠普Hp Prodesk 400G2 Mini 六代小主机（准系统）。博主用的是35W的i5-6600t CPU 追求更高性能的可以上i7-6700t或者标压款的i5-6600，需搭配95W/135W电源。700元组装成的一台黑苹果日常用来办公，学习，写码还是相当不错的。分享一下本机我制作的黑苹果EFI配置，博主用的是OpenCore引导。
+
+原文链接：https://yangwenqing.com/archives/1550/
 ![macOS Big Sur][1]
 
 
